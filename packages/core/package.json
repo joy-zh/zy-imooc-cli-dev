@@ -1,6 +1,6 @@
 {
   "name": "@zy-imooc-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "imooc-cli-dev core",
   "author": "zhangyi <44625433@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zy-imooc-cli-dev/utils": "^1.0.2"
+    "@zy-imooc-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "b7cbdb46a330a0f709f5e0f4cd96185a4a81b068"
 }
