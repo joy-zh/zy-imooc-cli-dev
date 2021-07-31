@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "zy-imooc-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "@zy-imooc-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "eadb241313736e035dd537178cc9b0e694ccb82d"
+  "gitHead": "b7cbdb46a330a0f709f5e0f4cd96185a4a81b068"
 }
