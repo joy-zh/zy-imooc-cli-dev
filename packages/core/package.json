@@ -22,5 +22,8 @@
   "dependencies": {
     "@zy-imooc-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "ef37cca8de7d9ad478abec80d051a7d59ae98240"
+  "gitHead": "ef37cca8de7d9ad478abec80d051a7d59ae98240",
+  "publishConfig": {
+    "access": "public"
+  }
 }
